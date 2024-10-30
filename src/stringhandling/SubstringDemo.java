@@ -10,7 +10,7 @@ public class SubstringDemo {
 		
 		System.out.println(str2);
 		
-		System.out.println(str.substring(1,3));
+		System.out.println(str.substring(1,9));
 
 	}
 
